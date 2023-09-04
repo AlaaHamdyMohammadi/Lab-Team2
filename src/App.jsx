@@ -1,14 +1,15 @@
 import './App.css'
+import Content from './Components/Content'
 import Esraa from './Esraa/Esraa'
 
+
 function App() {
- 
+  
 
   return (
-    <>
-      <Esraa/>
-    </>
-  )
-}
+   <>
+    <Content/>
+    <Esraa/>
 
-export default App
+   </>
+  )}
