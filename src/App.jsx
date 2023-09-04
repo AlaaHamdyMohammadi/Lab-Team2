@@ -1,14 +1,17 @@
 import { useState } from 'react'
-import MsFooter from './components/MS-Footer/MS-Footer'
 import './App.css'
 import Content from './Components/Content'
+import Esraa from './Esraa/Esraa'
+
 
 function App() {
-  
+  const [count, setCount] = useState(0)
 
   return (
    <>
     <Content/>
+    <Esraa/>
+
    </>
   )
 }
