@@ -22,7 +22,7 @@ export function NavBar(){
               <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/3.4">
-                Separated link
+                Separated 
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>
